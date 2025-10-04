@@ -3,7 +3,7 @@ name: Deploy GitHub Pages
 on:
   push:
     branches:
-      - main     # deploy every time you push to main
+      - main     # deploy every time 
 
 permissions:
   contents: read
